@@ -1,3 +1,3 @@
-# Insan Jati Github Page
-
 I'm glad you are here. I plan to talk about nothing.
+
+I write legacy code for my future self.
